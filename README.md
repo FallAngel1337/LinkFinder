@@ -11,6 +11,6 @@ Just clone the repo and have fun ;)
 ```
 $ git clone https://github.com/FallAngel1337/LinkFinder.git
 $ cd LinkFinder
-$ pip3 install -r requeriments.txt
+$ pip3 install -r requirements.txt
 $ python3 linkfinder.py -h
 ```
