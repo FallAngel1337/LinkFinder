@@ -14,3 +14,7 @@ $ cd LinkFinder
 $ pip3 install -r requirements.txt
 $ python3 linkfinder.py -h
 ```
+
+## Having any issue?
+
+Please let me know if you are having any problem, I'll be happy in fixing ;)
