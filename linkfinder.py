@@ -12,6 +12,7 @@ parser.add_argument('--comments', help='Grab the comments on the page', action='
 args = parser.parse_args()
 
 if args.f:
+    args.f = os.path.abspath(args.f)
     try:
         os.mkdir('LinkFinder')
         os.chdir('LinkFinder')
